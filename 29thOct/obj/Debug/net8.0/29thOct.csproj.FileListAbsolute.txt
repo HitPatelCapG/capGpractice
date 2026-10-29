@@ -12,3 +12,4 @@ C:\practice\modifiers\29thOct\29thOct\obj\Debug\net8.0\refint\29thOct.dll
 C:\practice\modifiers\29thOct\29thOct\obj\Debug\net8.0\29thOct.pdb
 C:\practice\modifiers\29thOct\29thOct\obj\Debug\net8.0\29thOct.genruntimeconfig.cache
 C:\practice\modifiers\29thOct\29thOct\obj\Debug\net8.0\ref\29thOct.dll
+C:\practice\modifiers\29thOct\29thOct\obj\Debug\net8.0\29thOct.sourcelink.json

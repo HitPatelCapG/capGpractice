@@ -6,6 +6,7 @@
     <RootNamespace>_29thOct</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>_29thOct.MultipleIn</StartupObject>
   </PropertyGroup>
 
 </Project>
